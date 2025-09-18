@@ -13,18 +13,26 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building **Web Development & Machine Learning projects**  
-- 🌱 Exploring **Computer Vision, AI, and Full-Stack Development**  
-- 👯 Open to collaborating on **Open Source Projects**  
-- 💬 Ask me about **Python, JavaScript, Web Dev, and AI/ML**  
-- 📫 Reach me via my repos or socials below  
+```python
+class Karan:
+    def __init__(self):
+        self.name = "Karan Rajput"
+        self.interests = ["Web Development", "Machine Learning", "Computer Vision"]
+        self.skills = ["Python", "JavaScript", "React", "Node.js", "AI/ML"]
+        self.open_to = "Open Source Collaboration"
+        self.contact = "karanravirajput@gmail.com"
+```
 
 ---
 
 ## 💻 Tech Stack
+<details>
+  <summary>Click to expand</summary>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,python,c,cpp,java" />
 </p>
+</details>
 
 ---
 
@@ -55,6 +63,18 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=0d1117&color=00ffcc&line=00ffcc&point=00ffcc&area=true&hide_border=true)
 
 </div>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karanxa1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/karanxa1/karanxa1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
