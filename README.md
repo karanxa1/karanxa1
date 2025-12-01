@@ -102,16 +102,23 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanxa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00d9ff&fire_color=00d9ff&icon_color=00d9ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanxa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanxa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00d9ff&fire_color=00d9ff&icon_color=00d9ff)](https://github.com/karanxa1)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanxa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/karanxa1)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanxa1&theme=tokyonight&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=1a1b27" alt="GitHub Streak" />
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karanxa1&theme=tokyonight&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=1a1b27)](https://github.com/karanxa1)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/karanxa1)
+
 </div>
 
 ---
@@ -119,7 +126,9 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karanxa1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=karanxa1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/karanxa1)
+
 </div>
 
 ---
@@ -128,40 +137,51 @@ me.say_hi()
 
 <div align="center">
   
-  ![Snake animation](https://github.com/karanxa1/karanxa1/blob/main/snake.yml)
-  
+![snake gif](https://github.com/karanxa1/karanxa1/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
+> **Note:** If the snake isn't showing yet, you need to set up the GitHub Action (see instructions below)
 
 ---
 
 <details>
 <summary><b>⚙️ How to set up the Contribution Snake</b></summary>
 
-To make the snake animation work, you need to add a GitHub Action workflow:
+<br>
 
-1. Create `.github/workflows/snake.yml` in your profile repository
-2. Add this code:
+The snake animation requires a GitHub Action to generate it. Follow these steps:
+
+### Step 1: Create the workflow file
+1. Go to your profile repository: `https://github.com/karanxa1/karanxa1`
+2. Create a new file: `.github/workflows/snake.yml`
+3. Copy and paste this code:
 
 ```yaml
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: karanxa1
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
@@ -169,8 +189,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Commit and push to trigger the action
-4. The snake will update automatically every 12 hours!
+### Step 2: Commit and run
+1. Commit the file
+2. Go to "Actions" tab in your repository
+3. Click on "Generate Snake" workflow
+4. Click "Run workflow" to manually trigger it
+
+### Step 3: Wait
+The snake will be generated and committed to the `output` branch. After a few minutes, refresh your profile to see it!
+
+The workflow will automatically run every 12 hours to keep it updated with your latest contributions.
 
 </details>
 
