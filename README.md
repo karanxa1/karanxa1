@@ -133,6 +133,20 @@ me.say_hi()
 
 ---
 
+## 📅 2025 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00d9ff/karanxa1" alt="2025 GitHub Contribution Chart" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=0f2d3d&color=1caad9&line=1caad9&point=1caad9&area=true&hide_border=true&custom_title=2025%20Contribution%20Activity%20(Public%20%2B%20Private)" alt="Contribution Graph" width="100%"/>
+</p>
+
+> **Note:** GitHub contribution graphs automatically include both public and private repository contributions when you're logged into GitHub. The calendar shows all your commits, pull requests, issues, and code reviews across all repositories!
+
+---
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -197,11 +211,8 @@ Other        ██░░░░░░░░░░░░░░░░░░░    
   <a href="https://karanrajput.me">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/karanxa1">
+  <a href="https://www.linkedin.com/in/karanrrajput/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/karanxa1">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
