@@ -128,7 +128,7 @@ me.say_hi()
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/karanxa1/karanxa1/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/karanxa1/karanxa1/blob/main/snake.yml)
   
 </div>
 
