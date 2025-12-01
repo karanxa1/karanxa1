@@ -4,13 +4,14 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F4&center=true&vCenter=true&random=false&width=435&lines=Building+the+Future+with+Code;AI+%26+Web+Development;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F4&center=true&vCenter=true&random=false&width=435&lines=Building+the+Future+with+Code;AI+%26+Web+Development;Always+Learning+%F0%9F%9A%80;Open+to+Collaboration)](https://git.io/typing-svg)
   
   <p>
     <a href="https://komarev.com/ghpvc/?username=karanxa1">
       <img src="https://komarev.com/ghpvc/?username=karanxa1&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
     </a>
     <img src="https://img.shields.io/github/followers/karanxa1?label=Followers&style=for-the-badge&color=00d9ff" alt="followers"/>
+    <img src="https://img.shields.io/github/stars/karanxa1?label=Stars&style=for-the-badge&color=00d9ff" alt="stars"/>
   </p>
   
 </div>
@@ -101,106 +102,75 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanxa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00d9ff&fire_color=00d9ff&icon_color=00d9ff)](https://github.com/karanxa1)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karanxa1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="Karan's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=karanxa1&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Karan's Streak Stats"/>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanxa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/karanxa1)
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karanxa1&theme=tokyonight&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=1a1b27)](https://github.com/karanxa1)
-
-</div>
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/karanxa1)
-
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanxa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=karanxa1&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=karanxa1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/karanxa1)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="100%"/>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Achievements
 
-<div align="center">
-  
-![snake gif](https://github.com/karanxa1/karanxa1/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-> **Note:** If the snake isn't showing yet, you need to set up the GitHub Action (see instructions below)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karanxa1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-<details>
-<summary><b>⚙️ How to set up the Contribution Snake</b></summary>
+## 💼 Experience & Skills
 
-<br>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/code.png" width="48"/>
+      <br><b>Development</b>
+      <br>Full Stack Web Apps
+      <br>Responsive Design
+      <br>API Integration
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="48"/>
+      <br><b>AI & ML</b>
+      <br>Computer Vision
+      <br>Deep Learning
+      <br>Model Training
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/team.png" width="48"/>
+      <br><b>Collaboration</b>
+      <br>Open Source
+      <br>Team Projects
+      <br>Code Reviews
+    </td>
+  </tr>
+</table>
 
-The snake animation requires a GitHub Action to generate it. Follow these steps:
+---
 
-### Step 1: Create the workflow file
-1. Go to your profile repository: `https://github.com/karanxa1/karanxa1`
-2. Create a new file: `.github/workflows/snake.yml`
-3. Copy and paste this code:
+## 🎨 Coding Activity
 
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:  # Allows manual trigger
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: karanxa1
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!--START_SECTION:waka-->
+```text
+JavaScript   █████████████░░░░░░░░   55.2%
+Python       ██████████░░░░░░░░░░░   42.8%
+HTML/CSS     ████░░░░░░░░░░░░░░░░░   15.6%
+Java         ███░░░░░░░░░░░░░░░░░░   12.4%
+Other        ██░░░░░░░░░░░░░░░░░░░    8.2%
 ```
-
-### Step 2: Commit and run
-1. Commit the file
-2. Go to "Actions" tab in your repository
-3. Click on "Generate Snake" workflow
-4. Click "Run workflow" to manually trigger it
-
-### Step 3: Wait
-The snake will be generated and committed to the `output` branch. After a few minutes, refresh your profile to see it!
-
-The workflow will automatically run every 12 hours to keep it updated with your latest contributions.
-
-</details>
+<!--END_SECTION:waka-->
 
 ---
 
@@ -214,11 +184,74 @@ The workflow will automatically run every 12 hours to keep it updated with your 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://karanrajput.me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/karanxa1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://twitter.com/karanxa1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+  
+```mermaid
+graph LR
+    A[Learning] --> B[Next.js]
+    A --> C[Docker]
+    A --> D[TensorFlow]
+    B --> E[Building Projects]
+    C --> E
+    D --> E
+    E --> F[Open Source]
+    F --> G[Community Impact]
+    
+    style A fill:#00d9ff,stroke:#fff,stroke-width:2px,color:#000
+    style E fill:#00d9ff,stroke:#fff,stroke-width:2px,color:#000
+    style G fill:#00d9ff,stroke:#fff,stroke-width:2px,color:#000
+```
+
+</div>
+
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Building Real-Time Applications with WebSockets
+- 🤖 Introduction to Computer Vision with OpenCV
+- 🎨 Modern CSS Techniques for 2024
+- ⚡ Optimizing React Performance
+- 🔐 Web Security Best Practices
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📫 Support My Work
+
+<div align="center">
+
+If you find my projects helpful, consider supporting me:
+
+<a href="https://www.buymeacoffee.com/karanxa1">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
 </div>
 
 ---
@@ -226,10 +259,16 @@ The workflow will automatically run every 12 hours to keep it updated with your 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <p>
+    <b>⭐️ From <a href="https://github.com/karanxa1">karanxa1</a></b>
+  </p>
   
   <p>
-    <i>⭐️ From <a href="https://github.com/karanxa1">karanxa1</a> - Let's build something amazing together! 🚀</i>
+    <i>💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" />
   </p>
 </div>
