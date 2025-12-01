@@ -103,13 +103,18 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karanxa1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="Karan's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=karanxa1&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Karan's Streak Stats"/>
+  <a href="https://github.com/karanxa1">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=karanxa1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/karanxa1">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karanxa1&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanxa1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=karanxa1&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=karanxa1&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
@@ -117,7 +122,13 @@ me.say_hi()
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanxa1&theme=algolia" alt="Contribution Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanxa1&theme=algolia" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karanxa1&theme=algolia" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karanxa1&theme=algolia" width="32%"/>
 </p>
 
 ---
@@ -125,7 +136,7 @@ me.say_hi()
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karanxa1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=karanxa1&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -242,15 +253,13 @@ graph LR
 
 ---
 
-## 📫 Support My Work
+## 📫 Get In Touch
 
 <div align="center">
 
-If you find my projects helpful, consider supporting me:
+**Let's connect and build something amazing together!**
 
-<a href="https://www.buymeacoffee.com/karanxa1">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
+Feel free to reach out for collaborations or just a friendly chat.
 
 </div>
 
