@@ -90,7 +90,7 @@ me.say_hi()
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
 | 👁️ **[Face Detection](https://github.com/karanxa1/face_detection)** | Real-time face detection using Computer Vision | Python, OpenCV | [View →](https://github.com/karanxa1/face_detection) |
-| 🌐 **[Portfolio Website](https://github.com/karanxa1/Portfolio-Landing-Page-1)** | Modern & responsive personal portfolio | HTML, CSS, JS | [Visit →](https://karanport.vercel.app) |
+| 🌐 **[Portfolio Website](https://github.com/karanxa1/Portfolio-Landing-Page-1)** | Modern & responsive personal portfolio | HTML, CSS, JS | [Visit →](https://karanrajput.me) |
 | 🚗 **[Vehicle Detector](https://github.com/karanxa1/vehicledetectorpy)** | AI-powered vehicle detection system | Python, ML | [Explore →](https://github.com/karanxa1/vehicledetectorpy) |
 | 🌤️ **[Weather Dashboard](https://github.com/karanxa1/weatherweb)** | Interactive weather forecast app | JavaScript, API | [Try →](https://github.com/karanxa1/weatherweb) |
 | 📋 **[Attendance System](https://github.com/karanxa1/newattendance)** | Smart attendance tracking solution | JavaScript | [Check →](https://github.com/karanxa1/newattendance) |
@@ -107,7 +107,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=karanxa1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanxa1&theme=tokyonight&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=1a1b27" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -119,7 +119,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karanxa1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karanxa1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -127,12 +127,52 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karanxa1/karanxa1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karanxa1/karanxa1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karanxa1/karanxa1/output/github-contribution-grid-snake.svg">
-  </picture>
+  
+  ![Snake animation](https://raw.githubusercontent.com/karanxa1/karanxa1/output/github-contribution-grid-snake.svg)
+  
 </div>
+
+---
+
+<details>
+<summary><b>⚙️ How to set up the Contribution Snake</b></summary>
+
+To make the snake animation work, you need to add a GitHub Action workflow:
+
+1. Create `.github/workflows/snake.yml` in your profile repository
+2. Add this code:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: karanxa1
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit and push to trigger the action
+4. The snake will update automatically every 12 hours!
+
+</details>
 
 ---
 
@@ -145,7 +185,7 @@ me.say_hi()
   <a href="mailto:karanravirajput@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://karanport.vercel.app">
+  <a href="https://karanrajput.me">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/karanxa1">
