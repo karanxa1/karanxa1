@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F4&center=true&vCenter=true&random=false&width=600&lines=💻+Building+the+Future+with+Code;🤖+AI+%26+Machine+Learning+Explorer;🌐+Full+Stack+Web+Developer;🚀+Always+Learning+%26+Growing;✨+Open+to+Collaboration)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F4&center=true&vCenter=true&random=false&width=600&lines=💻+Building+the+Future+with+Code;🤖+AI+%26+Machine+Learning+Explorer;🌐+Full+Stack+Web+Developer;🚀+Always+Learning+%26+Growing;✨+Open+to+Collaboration" alt="Typing SVG" />
   
 </div>
 
@@ -26,38 +26,26 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```python
 class Karan:
     def __init__(self):
         self.name = "Karan Rajput"
         self.role = "Full Stack Developer & AI Explorer"
         self.location = "🌍 India"
-        self.education = "Computer Science Engineering"
-        self.interests = [
+        self.code = ["Python", "JavaScript", "Java", "C++"]
+        self.ask_me_about = [
             "🌐 Web Development",
             "🤖 Machine Learning", 
             "👁️ Computer Vision",
-            "🎨 UI/UX Design",
             "☁️ Cloud Computing"
         ]
-        self.currently_learning = ["Next.js", "TensorFlow", "Docker"]
-        self.languages = ["Python", "JavaScript", "Java", "C++"]
-        self.hobbies = ["Coding", "Reading Tech Blogs", "Gaming"]
-        self.motto = "Code, Create, Innovate 🚀"
-    
-    def say_hi(self):
+        self.learning = ["Next.js", "TensorFlow", "Docker"]
+        self.fun_fact = "I debug with coffee and solve problems with code ☕"
+
+    def say_hello(self):
         print("Thanks for visiting! Let's build something incredible together 💡")
-    
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Coffee + Code",
-            "afternoon": "💻 Build Projects",
-            "evening": "📚 Learn New Tech",
-            "night": "🌙 Debug & Deploy"
-        }
 
 me = Karan()
-me.say_hi()
+me.say_hello()
 ```
 
 <br clear="right"/>
@@ -223,7 +211,7 @@ Explore more exciting projects on my GitHub profile!
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=karanxa1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&border_radius=15"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=karanxa1&theme=algolia&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=karanxa1&theme=algolia&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -455,7 +443,6 @@ const contactKaran = {
   
   <p>
     <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-red?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Open%20Source-💚-brightgreen?style=for-the-badge" />
   </p>
   
@@ -466,8 +453,4 @@ const contactKaran = {
   <p>
     <i>"First, solve the problem. Then, write the code." - John Johnson</i>
   </p>
-  
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
