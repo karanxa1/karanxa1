@@ -1,294 +1,261 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    karanxa1 — profile readme                          ║ -->
+<!-- ║              Last refreshed: rebuilt from scratch, fresh stack        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<a href="https://github.com/karanxa1">
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/master/svg/banner-1.svg" width="100%" alt="banner"/>
+</a>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Karan%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&multiline=true&width=900&height=110&lines=%24+whoami+--verbose;Karan+Rajput+%E2%80%94+Full-Stack+Engineer+%E2%9C%A6+AI+Builder" alt="title"/>
+
 </div>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F4&center=true&vCenter=true&random=false&width=435&lines=Building+the+Future+with+Code;AI+%26+Web+Development;Always+Learning+%F0%9F%9A%80;Open+to+Collaboration)](https://git.io/typing-svg)
-  
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=karanxa1">
-      <img src="https://komarev.com/ghpvc/?username=karanxa1&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
-    </a>
-    <img src="https://img.shields.io/github/followers/karanxa1?label=Followers&style=for-the-badge&color=00d9ff" alt="followers"/>
-    <img src="https://img.shields.io/github/stars/karanxa1?label=Stars&style=for-the-badge&color=00d9ff" alt="stars"/>
-  </p>
-  
+
+<a href="https://karanrajput.me"><img src="https://img.shields.io/badge/-karanrajput.me-A78BFA?style=flat-square&labelColor=0d0d0f&logo=vercel&logoColor=white"/></a>
+<a href="mailto:karanravirajput@gmail.com"><img src="https://img.shields.io/badge/-karanravirajput@gmail.com-EC4899?style=flat-square&labelColor=0d0d0f&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/karanrrajput/"><img src="https://img.shields.io/badge/-linkedin-38BDF8?style=flat-square&labelColor=0d0d0f&logo=linkedin&logoColor=white"/></a>
+<a href="https://callmissed.com"><img src="https://img.shields.io/badge/-callmissed.com-22C55E?style=flat-square&labelColor=0d0d0f&logo=phonepe&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=karanxa1&style=flat-square&color=A78BFA&label=visitors&labelColor=0d0d0f"/>
+
 </div>
 
----
+<br/>
 
-## 🎯 About Me
+## ╭─ boot.sh
 
-```python
-class Karan:
-    def __init__(self):
-        self.role = "Full Stack Developer & AI Explorer"
-        self.location = "🌍 India"
-        self.education = "Computer Science Engineering"
-        self.interests = [
-            "🌐 Web Development",
-            "🤖 Machine Learning", 
-            "👁️ Computer Vision",
-            "🎨 UI/UX Design"
-        ]
-        self.currently_learning = ["Next.js", "TensorFlow", "Docker"]
-        self.motto = "Code, Create, Innovate 🚀"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something incredible together 💡")
-
-me = Karan()
-me.say_hi()
+```bash
+$ ./karan --status
+✦ system          : online
+✦ location        : India 🇮🇳 · UTC+05:30
+✦ role            : full-stack engineer @ AI products
+✦ now_building    : callmissed.com — AI CRM in 22 Indic languages
+✦ stack           : Next.js 16, React 19, FastAPI, Postgres, LiveKit
+✦ exploring       : realtime voice agents, RAG, Indic NLP
+✦ caffeine        : ████████████░░░ 80% (sufficient)
+✦ ship_velocity   : ████████████░░░ high
+✦ open_to         : collabs, freelance, OSS contributions
+✦ inbox           : karanravirajput@gmail.com
 ```
 
-<div align="center">
-  
-### 🌟 Quick Highlights
+## ╭─ flagship.deploy
 
-🔭 Currently working on **AI-powered web applications**  
-🌱 Exploring **Deep Learning & Cloud Technologies**  
-💬 Ask me about **React, Python, Computer Vision**  
-⚡ Fun fact: **I debug with coffee and solve problems with code**  
-📫 Reach me: **karanravirajput@gmail.com**
+<table>
+<tr>
+<td valign="top" width="55%">
 
-</div>
+### 📞 CallMissed
+> AI-native CRM & customer-support platform. Voice agents, WhatsApp bots, email automation across **22 Indian languages**. A monorepo of 7 Next.js 16 apps, a FastAPI backend, and Python + JS SDKs.
 
----
+**Live →** [callmissed.com](https://callmissed.com)
+**App →** [app.callmissed.com](https://app.callmissed.com)
+**Docs →** [docs.callmissed.com](https://docs.callmissed.com)
+**Playground →** [platform.callmissed.com](https://platform.callmissed.com)
 
-## 🛠️ Tech Arsenal
+</td>
+<td valign="top" width="45%">
 
-<details open>
-  <summary><b>🎨 Frontend Development</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma&theme=dark" />
-  </p>
-</details>
+```yaml
+runtime:
+  web:        Next.js 16.2 (App Router)
+  ui:         React 19 · Tailwind v4
+  motion:     motion/react
+  state:      Zustand · TanStack Query
+  forms:      React Hook Form · Zod
+  components: shadcn/ui · Lucide
+backend:
+  framework:  FastAPI (Python 3.12)
+  orm:        SQLAlchemy 2 (async)
+  db:         PostgreSQL · asyncpg
+  migrations: Alembic
+realtime:
+  voice:      LiveKit · WebRTC
+  stt_tts:    Sarvam AI · OpenAI
+auth:         WebAuthn passkeys · TOTP 2FA
+deploy:       Vercel · Docker · Railway
+analytics:    PostHog
+```
 
-<details open>
-  <summary><b>⚙️ Backend & Database</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp,c&theme=dark" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>🧰 Tools & Platforms</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,postman&theme=dark" />
-  </p>
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| 👁️ **[Face Detection](https://github.com/karanxa1/face_detection)** | Real-time face detection using Computer Vision | Python, OpenCV | [View →](https://github.com/karanxa1/face_detection) |
-| 🌐 **[Portfolio Website](https://github.com/karanxa1/Portfolio-Landing-Page-1)** | Modern & responsive personal portfolio | HTML, CSS, JS | [Visit →](https://karanrajput.me) |
-| 🚗 **[Vehicle Detector](https://github.com/karanxa1/vehicledetectorpy)** | AI-powered vehicle detection system | Python, ML | [Explore →](https://github.com/karanxa1/vehicledetectorpy) |
-| 🌤️ **[Weather Dashboard](https://github.com/karanxa1/weatherweb)** | Interactive weather forecast app | JavaScript, API | [Try →](https://github.com/karanxa1/weatherweb) |
-| 📋 **[Attendance System](https://github.com/karanxa1/newattendance)** | Smart attendance tracking solution | JavaScript | [Check →](https://github.com/karanxa1/newattendance) |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/karanxa1">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=karanxa1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/karanxa1">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karanxa1&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=karanxa1&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanxa1&theme=algolia" alt="Contribution Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanxa1&theme=algolia" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karanxa1&theme=algolia" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karanxa1&theme=algolia" width="32%"/>
-</p>
-
----
-
-## 📅 2025 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00d9ff/karanxa1" alt="2025 GitHub Contribution Chart" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=0f2d3d&color=1caad9&line=1caad9&point=1caad9&area=true&hide_border=true&custom_title=2025%20Contribution%20Activity%20(Public%20%2B%20Private)" alt="Contribution Graph" width="100%"/>
-</p>
-
-> **Note:** GitHub contribution graphs automatically include both public and private repository contributions when you're logged into GitHub. The calendar shows all your commits, pull requests, issues, and code reviews across all repositories!
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karanxa1&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 💼 Experience & Skills
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/code.png" width="48"/>
-      <br><b>Development</b>
-      <br>Full Stack Web Apps
-      <br>Responsive Design
-      <br>API Integration
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="48"/>
-      <br><b>AI & ML</b>
-      <br>Computer Vision
-      <br>Deep Learning
-      <br>Model Training
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/team.png" width="48"/>
-      <br><b>Collaboration</b>
-      <br>Open Source
-      <br>Team Projects
-      <br>Code Reviews
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+## ╭─ stack.json
 
-## 🎨 Coding Activity
+<div align="center">
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   █████████████░░░░░░░░   55.2%
-Python       ██████████░░░░░░░░░░░   42.8%
-HTML/CSS     ████░░░░░░░░░░░░░░░░░   15.6%
-Java         ███░░░░░░░░░░░░░░░░░░   12.4%
-Other        ██░░░░░░░░░░░░░░░░░░░    8.2%
+`languages`
+<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+`frontend & ui`
+<br/>
+![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+`backend & data`
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+`ai & ml`
+<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FF6B35?style=flat-square&logo=livekit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+`devops & cloud`
+<br/>
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</div>
+
+## ╭─ contribution.render — 3D
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/karanxa1/karanxa1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=karanxa1&theme=radical" width="100%" alt="3d-contrib"/>
+</div>
+
+## ╭─ metrics.dashboard
+
+<table align="center">
+<tr>
+<td>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=karanxa1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&icon_color=EC4899&text_color=E2E8F0&border_radius=12" alt="stats"/>
+</td>
+<td>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanxa1&layout=donut&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&text_color=E2E8F0&border_radius=12&langs_count=8" alt="langs"/>
+</td>
+</tr>
+<tr>
+<td>
+<img height="195" src="https://streak-stats.demolab.com?user=karanxa1&hide_border=true&background=0d0d0f&ring=A78BFA&fire=EC4899&currStreakLabel=22C55E&sideLabels=E2E8F0&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0&border_radius=12" alt="streak"/>
+</td>
+<td>
+<img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=karanxa1&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&text_color=E2E8F0&border_radius=12&layout=compact" alt="wakatime"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=0d0d0f&color=A78BFA&line=EC4899&point=22C55E&area=true&hide_border=true&radius=12&custom_title=commit%20velocity%20%E2%80%94%20last%2031%20days" width="100%" alt="activity-graph"/>
+</div>
+
+## ╭─ projects.list
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📞 [CallMissed](https://callmissed.com) `flagship`
+AI CRM platform · voice agents · 22 Indic languages
+<br/>
+`Next.js 16` `FastAPI` `LiveKit` `Postgres`
+
+#### 👁️ [Face Detection](https://github.com/karanxa1/face_detection)
+Realtime face detection from webcam stream
+<br/>
+`Python` `OpenCV` `dlib`
+
+#### 🚗 [Vehicle Detector](https://github.com/karanxa1/vehicledetectorpy)
+ML-driven vehicle classification on video feeds
+<br/>
+`Python` `OpenCV` `Haar Cascade`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 [Portfolio](https://karanrajput.me)
+Personal site · animated landing
+<br/>
+`HTML` `CSS` `JavaScript`
+
+#### 🌤️ [Weather Web](https://github.com/karanxa1/weatherweb)
+Forecast app with multi-city tracking
+<br/>
+`JavaScript` `OpenWeather API`
+
+#### 📋 [Attendance System](https://github.com/karanxa1/newattendance)
+Smart attendance tracker with reports
+<br/>
+`JavaScript` `LocalStorage`
+
+</td>
+</tr>
+</table>
+
+## ╭─ achievements.unlocked
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karanxa1&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/>
+</div>
+
+## ╭─ now.playing
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karanxa1&repo=face_detection&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&icon_color=EC4899&text_color=E2E8F0&border_radius=12" alt="repo-1"/>
+</td>
+<td align="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karanxa1&repo=Portfolio-Landing-Page-1&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&icon_color=EC4899&text_color=E2E8F0&border_radius=12" alt="repo-2"/>
+</td>
+<td align="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=karanxa1&repo=vehicledetectorpy&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&icon_color=EC4899&text_color=E2E8F0&border_radius=12" alt="repo-3"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+## ╭─ uname -a
+
 ```
-<!--END_SECTION:waka-->
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/karanxa1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:karanravirajput@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://karanrajput.me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/karanrrajput/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  
-```mermaid
-graph LR
-    A[Learning] --> B[Next.js]
-    A --> C[Docker]
-    A --> D[TensorFlow]
-    B --> E[Building Projects]
-    C --> E
-    D --> E
-    E --> F[Open Source]
-    F --> G[Community Impact]
-    
-    style A fill:#00d9ff,stroke:#fff,stroke-width:2px,color:#000
-    style E fill:#00d9ff,stroke:#fff,stroke-width:2px,color:#000
-    style G fill:#00d9ff,stroke:#fff,stroke-width:2px,color:#000
+karan@flagship ~ % uname -a
+Engineer 1.0 india x86_64 caffeine/coffee · ship/daily · learn/forever
 ```
 
-</div>
+> *"The best way to predict the future is to build it." — paraphrasing Alan Kay*
 
----
+<br/>
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Real-Time Applications with WebSockets
-- 🤖 Introduction to Computer Vision with OpenCV
-- 🎨 Modern CSS Techniques for 2024
-- ⚡ Optimizing React Performance
-- 🔐 Web Security Best Practices
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💡 Random Dev Quote
+<a href="https://github.com/karanxa1">
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/master/svg/banner-2.svg" width="100%" alt="footer"/>
+</a>
 
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-**Let's connect and build something amazing together!**
-
-Feel free to reach out for collaborations or just a friendly chat.
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
-  <p>
-    <b>⭐️ From <a href="https://github.com/karanxa1">karanxa1</a></b>
-  </p>
-  
-  <p>
-    <i>💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" />
-  </p>
+  <sub>built with caffeine · in India · open to interesting problems</sub>
 </div>
