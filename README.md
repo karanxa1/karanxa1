@@ -1,261 +1,481 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    karanxa1 — profile readme                          ║ -->
-<!-- ║              Last refreshed: rebuilt from scratch, fresh stack        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<a href="https://github.com/karanxa1">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/master/svg/banner-1.svg" width="100%" alt="banner"/>
-</a>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&multiline=true&width=900&height=110&lines=%24+whoami+--verbose;Karan+Rajput+%E2%80%94+Full-Stack+Engineer+%E2%9C%A6+AI+Builder" alt="title"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&width=100%25&color=0:0d0d0f,50:A78BFA,100:EC4899&text=Karan%20Rajput&fontSize=46&fontColor=ffffff&stroke=ffffff" width="100%" alt="Karan Rajput"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&multiline=true&width=920&height=110&lines=Co-founder+%C2%B7+CallMissed+%C2%B7+FreeToChat+%C2%B7+TecnoMate;Building+production+software+in+India;Forward+Deployed+Engineer+%C2%B7+Pune%2C+India" alt="title"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&width=700&color=0:0d0d0f,100:22C55E&text=3+live+products+%C2%B7+not+looking+for+a+job+%C2%B7+open+to+partnerships&fontSize=18&fontColor=ffffff" alt="status strip"/>
 
 </div>
-
-<div align="center">
-
-<a href="https://karanrajput.me"><img src="https://img.shields.io/badge/-karanrajput.me-A78BFA?style=flat-square&labelColor=0d0d0f&logo=vercel&logoColor=white"/></a>
-<a href="mailto:karanravirajput@gmail.com"><img src="https://img.shields.io/badge/-karanravirajput@gmail.com-EC4899?style=flat-square&labelColor=0d0d0f&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/karanrrajput/"><img src="https://img.shields.io/badge/-linkedin-38BDF8?style=flat-square&labelColor=0d0d0f&logo=linkedin&logoColor=white"/></a>
-<a href="https://callmissed.com"><img src="https://img.shields.io/badge/-callmissed.com-22C55E?style=flat-square&labelColor=0d0d0f&logo=phonepe&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=karanxa1&style=flat-square&color=A78BFA&label=visitors&labelColor=0d0d0f"/>
-
-</div>
-
-<br/>
-
-## ╭─ boot.sh
-
-```bash
-$ ./karan --status
-✦ system          : online
-✦ location        : India 🇮🇳 · UTC+05:30
-✦ role            : full-stack engineer @ AI products
-✦ now_building    : callmissed.com — AI CRM in 22 Indic languages
-✦ stack           : Next.js 16, React 19, FastAPI, Postgres, LiveKit
-✦ exploring       : realtime voice agents, RAG, Indic NLP
-✦ caffeine        : ████████████░░░ 80% (sufficient)
-✦ ship_velocity   : ████████████░░░ high
-✦ open_to         : collabs, freelance, OSS contributions
-✦ inbox           : karanravirajput@gmail.com
-```
-
-## ╭─ flagship.deploy
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td width="28%" align="center" valign="top">
+
+<img src="https://github.com/karanxa1.png" width="180" style="border-radius: 50%;" alt="Karan Rajput"/>
+
+<br/><br/>
+
+<a href="https://karanrajput.me"><img src="https://img.shields.io/badge/Portfolio-karanrajput.me-A78BFA?style=for-the-badge&labelColor=0d0d0f&logo=vercel&logoColor=white"/></a>
+<br/><br/>
+<a href="mailto:karan@callmissed.com"><img src="https://img.shields.io/badge/Email-karan@callmissed.com-EC4899?style=for-the-badge&labelColor=0d0d0f&logo=gmail&logoColor=white"/></a>
+<br/><br/>
+<a href="https://www.linkedin.com/in/karanrrajput/"><img src="https://img.shields.io/badge/LinkedIn-karanrrajput-38BDF8?style=for-the-badge&labelColor=0d0d0f&logo=linkedin&logoColor=white"/></a>
+
+</td>
+<td width="72%" valign="top">
+
+### 👋 Co-founder · Builder · Operator
+
+> Hard customer problems → **agents · backend · frontend · infra · rollout** — end to end in production.
+
+<br/>
+
+| | |
+|:---|:---|
+| 📍 **Base** | Pune, India · UTC+05:30 |
+| 🏢 **Companies** | CallMissed · FreeToChat · TecnoMate |
+| ⚡ **Role** | Forward Deployed Engineer & Co-founder |
+| ☁️ **Infra** | Azure · Cloudflare · GCP · AWS |
+| 🧠 **LLMs** | Azure OpenAI · multi-model routing on CallMissed |
+| 🎙️ **Voice** | Deepgram · Sarvam · Cartesia · LiveKit |
+| 🔗 **Platform** | CallMissed APIs power FreeToChat & TecnoMate |
+| 🛠️ **Stack** | Next.js 16 · React 19 · FastAPI · Postgres |
+
+<br/>
+
+<a href="https://callmissed.com"><img src="https://img.shields.io/badge/CallMissed-CRM-22C55E?style=for-the-badge&labelColor=0d0d0f&logo=googlechat&logoColor=white"/></a>
+<a href="https://freetochat.app"><img src="https://img.shields.io/badge/FreeToChat-Workspace-38BDF8?style=for-the-badge&labelColor=0d0d0f&logo=message&logoColor=white"/></a>
+<a href="https://tecnomate.in"><img src="https://img.shields.io/badge/TecnoMate-Commerce-F97316?style=for-the-badge&labelColor=0d0d0f&logo=shoppingcart&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/public_repos-58-A78BFA?style=flat-square&labelColor=0d0d0f&logo=github"/>
+<img src="https://img.shields.io/badge/followers-21-EC4899?style=flat-square&labelColor=0d0d0f&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub_since-2024-22C55E?style=flat-square&labelColor=0d0d0f&logo=github"/>
+<img src="https://img.shields.io/badge/status-shipping_daily-A78BFA?style=flat-square&labelColor=0d0d0f&logo=rocket&logoColor=white"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:A78BFA&height=65&section=header&text=startup%20batches&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="startup batches"/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_for_Startups-Accepted-0078D4?style=for-the-badge&labelColor=0d0d0f&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Activate-Portfolio_Tier-FF9900?style=for-the-badge&labelColor=0d0d0f&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare_for_Startups-Accepted-F38020?style=for-the-badge&labelColor=0d0d0f&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta-Business_Partner-0081FB?style=for-the-badge&labelColor=0d0d0f&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta-Tech_Provider-0668E1?style=for-the-badge&labelColor=0d0d0f&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deepgram_for_Startups-Official_Partner-13EF93?style=for-the-badge&labelColor=0d0d0f&logo=deepgram&logoColor=black"/>
+
+</div>
+
+<table>
+<tr>
+<th>Program</th>
+<th>Status</th>
+<th>Powers</th>
+</tr>
+<tr>
+<td><b>Microsoft for Startups</b></td>
+<td>Accepted</td>
+<td>Azure Central India · FastAPI · PostgreSQL/pgvector · CallMissed backend</td>
+</tr>
+<tr>
+<td><b>AWS Activate</b></td>
+<td>Portfolio Tier</td>
+<td>Supplementary cloud credits · SES · production workloads where needed</td>
+</tr>
+<tr>
+<td><b>Cloudflare for Startups</b></td>
+<td>Accepted</td>
+<td>7 Next.js apps on Workers · edge delivery · CallMissed web tier</td>
+</tr>
+<tr>
+<td><b>Deepgram for Startups</b></td>
+<td>Official Partner</td>
+<td>One of several voice providers on CallMissed — STT/TTS alongside Sarvam & Cartesia</td>
+</tr>
+<tr>
+<td><b>Meta Business Partner</b></td>
+<td>Partner</td>
+<td>Business verification · platform trust · CallMissed go-to-market</td>
+</tr>
+<tr>
+<td><b>Meta Tech Provider</b></td>
+<td>Tech Provider</td>
+<td>WhatsApp Business Platform · embedded signup · client onboarding · WABA messaging & management for CallMissed</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:EC4899&height=65&section=header&text=companies%20in%20production&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="companies"/>
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
 
 ### 📞 CallMissed
-> AI-native CRM & customer-support platform. Voice agents, WhatsApp bots, email automation across **22 Indian languages**. A monorepo of 7 Next.js 16 apps, a FastAPI backend, and Python + JS SDKs.
+**`flagship · API platform`**
 
-**Live →** [callmissed.com](https://callmissed.com)
-**App →** [app.callmissed.com](https://app.callmissed.com)
-**Docs →** [docs.callmissed.com](https://docs.callmissed.com)
-**Playground →** [platform.callmissed.com](https://platform.callmissed.com)
+Core CRM & unified API layer — infra on **Azure + Cloudflare + GCP**, LLMs from **Azure**, voice via **Deepgram · Sarvam · Cartesia · LiveKit**. WhatsApp, Voice, Email & Web Chat across **22 Indian languages**.
+
+<br/>
+
+`Next.js 16` `FastAPI` `Azure` `Cloudflare` `Meta Tech Provider`
+
+<br/>
+
+<a href="https://callmissed.com"><img src="https://img.shields.io/badge/Visit-callmissed.com-22C55E?style=for-the-badge&labelColor=0d0d0f"/></a>
 
 </td>
-<td valign="top" width="45%">
+<td align="center" width="33%" valign="top">
+
+### 💬 FreeToChat
+**`co-founded · live`**
+
+Multi-model workspace that **runs on CallMissed APIs** — streaming, models, and agent infra routed through the CallMissed platform.
+
+<br/>
+
+`CallMissed APIs` `React` `Real-time streaming`
+
+<br/>
+
+<a href="https://freetochat.app"><img src="https://img.shields.io/badge/Visit-freetochat.app-38BDF8?style=for-the-badge&labelColor=0d0d0f"/></a>
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### 🛒 TecnoMate
+**`co-founded · live`**
+
+Electronics marketplace where **AI agents run on CallMissed APIs** — RAG catalog, Razorpay, 65+ endpoints, agent orchestration via the platform.
+
+<br/>
+
+`CallMissed APIs` `React 19` `FastAPI` `Razorpay` `RAG`
+
+<br/>
+
+<a href="https://tecnomate.in"><img src="https://img.shields.io/badge/Visit-tecnomate.in-F97316?style=for-the-badge&labelColor=0d0d0f"/></a>
+
+</td>
+</tr>
+</table>
+
+<details open>
+<summary><b>🗺️ product ecosystem</b></summary>
+
+```mermaid
+flowchart TB
+    subgraph platform [CallMissed Platform]
+        CM[CallMissed CRM & APIs]
+        CM --> CH[WhatsApp · Voice · Email · Web]
+    end
+
+    subgraph infra [Infra & Models]
+        AZ[Azure · LLMs & backend]
+        CF[Cloudflare · edge & web]
+        GCP[GCP]
+        DG[Deepgram]
+        SV[Sarvam]
+        CT[Cartesia]
+    end
+
+    FC[FreeToChat] -->|runs on| CM
+    TM[TecnoMate agents] -->|runs on| CM
+    AZ --> CM
+    CF --> CM
+    GCP --> CM
+    DG --> CM
+    SV --> CM
+    CT --> CM
+```
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:A78BFA&height=65&section=header&text=platform%20architecture&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="architecture"/>
+
+<table>
+<tr>
+<th align="left" width="25%">Layer</th>
+<th align="left" width="75%">Providers</th>
+</tr>
+<tr>
+<td><b>Infrastructure</b></td>
+<td>Azure · Cloudflare · GCP · AWS</td>
+</tr>
+<tr>
+<td><b>LLMs</b></td>
+<td>Azure OpenAI & multi-model routing through CallMissed</td>
+</tr>
+<tr>
+<td><b>Voice</b></td>
+<td>Deepgram · Sarvam · Cartesia · LiveKit — all wired into CallMissed, not a single vendor lock-in</td>
+</tr>
+<tr>
+<td><b>Products on APIs</b></td>
+<td><b>FreeToChat</b> — full workspace over CallMissed APIs · <b>TecnoMate</b> — commerce agents over CallMissed APIs</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:A78BFA&height=65&section=header&text=deep%20dive%20%C2%B7%20callmissed&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="callmissed"/>
+
+<table>
+<tr>
+<td valign="top" width="58%">
+
+> **CallMissed is the platform.** Infra on Azure + Cloudflare + GCP, LLMs from Azure, voice from Deepgram · Sarvam · Cartesia · LiveKit. FreeToChat and TecnoMate both run on CallMissed APIs.
+
+**Links**
+<br/>
+🌐 [callmissed.com](https://callmissed.com) · [app](https://app.callmissed.com)
+<br/>
+📚 [docs](https://docs.callmissed.com) · [platform](https://platform.callmissed.com)
+
+</td>
+<td valign="top" width="42%">
 
 ```yaml
-runtime:
-  web:        Next.js 16.2 (App Router)
-  ui:         React 19 · Tailwind v4
-  motion:     motion/react
-  state:      Zustand · TanStack Query
-  forms:      React Hook Form · Zod
-  components: shadcn/ui · Lucide
-backend:
-  framework:  FastAPI (Python 3.12)
-  orm:        SQLAlchemy 2 (async)
-  db:         PostgreSQL · asyncpg
-  migrations: Alembic
-realtime:
-  voice:      LiveKit · WebRTC
-  stt_tts:    Sarvam AI · OpenAI
-auth:         WebAuthn passkeys · TOTP 2FA
-deploy:       Vercel · Docker · Railway
-analytics:    PostHog
+web:       Next.js 16 · React 19 · Cloudflare Workers
+backend:   FastAPI · Azure Central India
+db:        PostgreSQL · pgvector
+llms:      Azure OpenAI · multi-model API surface
+voice:     Deepgram · Sarvam · Cartesia · LiveKit
+channels:  WhatsApp · Email · Web Chat · Voice
+meta:      Tech Provider · Business Partner
+consumers: FreeToChat · TecnoMate (via APIs)
+ci_cd:     GitHub Actions
 ```
 
 </td>
 </tr>
 </table>
 
-## ╭─ stack.json
+<details>
+<summary><b>💬 FreeToChat · deploy spec</b></summary>
+
+<br/>
+
+```yaml
+product:   Multi-model chat workspace
+platform:  Runs on CallMissed APIs
+frontend:  React · streaming UX
+models:    Routed through CallMissed (Azure LLMs + platform layer)
+live:      https://freetochat.app
+```
+
+</details>
+
+<details>
+<summary><b>🛒 TecnoMate · deploy spec</b></summary>
+
+<br/>
+
+```yaml
+product:   AI-powered electronics marketplace
+platform:  AI agents powered by CallMissed APIs
+frontend:  React 19 · SEO architecture
+backend:   FastAPI · 65+ endpoints · RAG catalog
+payments:  Razorpay
+live:      https://tecnomate.in
+```
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:22C55E&height=65&section=header&text=how%20i%20ship&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="how i ship"/>
+
+```diff
++ Co-founder mindset     → own product, infra, and customer rollout
++ Forward deployed       → problem → design → production
++ Full-stack operator    → agents + backend + frontend + cloud + CI/CD
++ Small team leverage    → one engineer shipping what used to take three
++ India-first            → 22 Indic languages · DPDP-aware infra
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:A78BFA&height=65&section=header&text=tech%20stack&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="stack"/>
 
 <div align="center">
 
-`languages`
+**languages**
 <br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-`frontend & ui`
-<br/>
-![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Motion](https://img.shields.io/badge/Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
-![shadcn](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<br/><br/>
 
-`backend & data`
+**frontend**
 <br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-`ai & ml`
-<br/>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-FF6B35?style=flat-square&logo=livekit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<br/><br/>
 
-`devops & cloud`
+**infra & cloud**
 <br/>
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<br/><br/>
+
+**voice providers** *(on CallMissed platform)*
+<br/>
+<img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black"/>
+<img src="https://img.shields.io/badge/Sarvam-6366F1?style=for-the-badge&labelColor=0d0d0f"/>
+<img src="https://img.shields.io/badge/Cartesia-000000?style=for-the-badge&labelColor=0d0d0f"/>
+<img src="https://img.shields.io/badge/LiveKit-FF6B35?style=for-the-badge&logo=livekit&logoColor=white"/>
+
+<br/><br/>
+
+**backend**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
-## ╭─ contribution.render — 3D
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/karanxa1/karanxa1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=karanxa1&theme=radical" width="100%" alt="3d-contrib"/>
-</div>
-
-## ╭─ metrics.dashboard
-
-<table align="center">
-<tr>
-<td>
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=karanxa1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&icon_color=EC4899&text_color=E2E8F0&border_radius=12" alt="stats"/>
-</td>
-<td>
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanxa1&layout=donut&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&text_color=E2E8F0&border_radius=12&langs_count=8" alt="langs"/>
-</td>
-</tr>
-<tr>
-<td>
-<img height="195" src="https://streak-stats.demolab.com?user=karanxa1&hide_border=true&background=0d0d0f&ring=A78BFA&fire=EC4899&currStreakLabel=22C55E&sideLabels=E2E8F0&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0&border_radius=12" alt="streak"/>
-</td>
-<td>
-<img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=karanxa1&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&text_color=E2E8F0&border_radius=12&layout=compact" alt="wakatime"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=0d0d0f&color=A78BFA&line=EC4899&point=22C55E&area=true&hide_border=true&radius=12&custom_title=commit%20velocity%20%E2%80%94%20last%2031%20days" width="100%" alt="activity-graph"/>
-</div>
-
-## ╭─ projects.list
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:EC4899&height=65&section=header&text=also%20shipped&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="also shipped"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 📞 [CallMissed](https://callmissed.com) `flagship`
-AI CRM platform · voice agents · 22 Indic languages
-<br/>
-`Next.js 16` `FastAPI` `LiveKit` `Postgres`
-
-#### 👁️ [Face Detection](https://github.com/karanxa1/face_detection)
-Realtime face detection from webcam stream
-<br/>
-`Python` `OpenCV` `dlib`
-
-#### 🚗 [Vehicle Detector](https://github.com/karanxa1/vehicledetectorpy)
-ML-driven vehicle classification on video feeds
-<br/>
-`Python` `OpenCV` `Haar Cascade`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌐 [Portfolio](https://karanrajput.me)
-Personal site · animated landing
-<br/>
-`HTML` `CSS` `JavaScript`
-
-#### 🌤️ [Weather Web](https://github.com/karanxa1/weatherweb)
-Forecast app with multi-city tracking
-<br/>
-`JavaScript` `OpenWeather API`
-
-#### 📋 [Attendance System](https://github.com/karanxa1/newattendance)
-Smart attendance tracker with reports
-<br/>
-`JavaScript` `LocalStorage`
+| Project | Stack |
+|:---|:---|
+| 🌸 [**Aromic Tales**](https://aromictales.com) | `React 19` `FastAPI` `GSAP` |
+| 🌐 [**Portfolio**](https://karanrajput.me) | `React` `Netlify` |
+| 👁️ [**face_detection**](https://github.com/karanxa1/face_detection) | `Python` `OpenCV` `dlib` |
 
 </td>
 </tr>
 </table>
 
-## ╭─ achievements.unlocked
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:A78BFA&height=65&section=header&text=activity%20%26%20stats&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="activity"/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karanxa1&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/>
+
+<img src="https://ghchart.rshah.org/A78BFA/karanxa1" width="100%" alt="contribution chart"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanxa1&bg_color=0d0d0f&color=A78BFA&line=EC4899&point=22C55E&area=true&hide_border=true&radius=12&custom_title=commit%20activity%20%E2%80%94%20last%2031%20days" width="100%" alt="activity graph"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karanxa1&theme=radical" width="100%" alt="profile details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karanxa1&theme=radical" width="49%" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karanxa1&theme=radical" width="49%" alt="languages"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karanxa1&theme=radical" width="49%" alt="commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karanxa1&theme=radical&utcOffset=5.5" width="49%" alt="productive time"/>
+
+<img src="https://streak-stats.demolab.com?user=karanxa1&hide_border=true&background=0d0d0f&ring=A78BFA&fire=EC4899&currStreakLabel=22C55E&sideLabels=E2E8F0&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0&border_radius=12" width="100%" alt="streak"/>
+
 </div>
 
-## ╭─ now.playing
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:22C55E&height=65&section=header&text=featured%20open%20source&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="featured repos"/>
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karanxa1&repo=face_detection&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&icon_color=EC4899&text_color=E2E8F0&border_radius=12" alt="repo-1"/>
+<td width="33%" align="center" valign="top">
+
+### 🧠 [hackathon-cc](https://github.com/karanxa1/hackathon-cc)
+**Nexus** · local-first RAG for handwritten PDF notes
+<br/>`TypeScript` `FastAPI` `ChromaDB` `RAG`
+<br/><br/>
+<img src="https://img.shields.io/github/stars/karanxa1/hackathon-cc?style=for-the-badge&color=A78BFA&labelColor=0d0d0f&logo=github&label=stars"/>
+<br/>
+<a href="https://github.com/karanxa1/hackathon-cc"><img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </td>
-<td align="center" width="33%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karanxa1&repo=Portfolio-Landing-Page-1&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&icon_color=EC4899&text_color=E2E8F0&border_radius=12" alt="repo-2"/>
+<td width="33%" align="center" valign="top">
+
+### 🤟 [SignSpeak](https://github.com/karanxa1/SignSpeak)
+Realtime **ASL → English** · MediaPipe · TFLite · WebSockets
+<br/>`React 19` `FastAPI` `OpenCV` `WebSockets`
+<br/><br/>
+<img src="https://img.shields.io/github/stars/karanxa1/SignSpeak?style=for-the-badge&color=A78BFA&labelColor=0d0d0f&logo=github&label=stars"/>
+<br/>
+<a href="https://github.com/karanxa1/SignSpeak"><img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </td>
-<td align="center" width="33%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karanxa1&repo=vehicledetectorpy&hide_border=true&bg_color=0d0d0f&title_color=A78BFA&icon_color=EC4899&text_color=E2E8F0&border_radius=12" alt="repo-3"/>
+<td width="33%" align="center" valign="top">
+
+### 🤖 [friday-agent](https://github.com/karanxa1/friday-agent)
+Self-modifying autonomous agent · **Google ADK** · Claude · MCP
+<br/>`Python` `MCP` `Streaming UI`
+<br/><br/>
+<img src="https://img.shields.io/github/stars/karanxa1/friday-agent?style=for-the-badge&color=A78BFA&labelColor=0d0d0f&logo=github&label=stars"/>
+<br/>
+<a href="https://github.com/karanxa1/friday-agent"><img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🏪 [trade-mart](https://github.com/karanxa1/trade-mart)
+Govt-approved marketplace · Flask · Streamlit admin
+<br/>`Flask` `SQLite` `Render`
+<br/><br/>
+<img src="https://img.shields.io/github/stars/karanxa1/trade-mart?style=for-the-badge&color=A78BFA&labelColor=0d0d0f&logo=github&label=stars"/>
+<br/>
+<a href="https://github.com/karanxa1/trade-mart"><img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🚗 [vehicledetectorpy](https://github.com/karanxa1/vehicledetectorpy)
+Realtime vehicle detection on video feeds
+<br/>`Python` `OpenCV` `YOLO` `TensorFlow`
+<br/><br/>
+<img src="https://img.shields.io/github/stars/karanxa1/vehicledetectorpy?style=for-the-badge&color=A78BFA&labelColor=0d0d0f&logo=github&label=stars"/>
+<br/>
+<a href="https://github.com/karanxa1/vehicledetectorpy"><img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ⚡ [ev-main](https://github.com/karanxa1/ev-main)
+EV charging network · maps · booking · AI assistant
+<br/>`JavaScript` `Next.js` `Firebase`
+<br/><br/>
+<img src="https://img.shields.io/github/stars/karanxa1/ev-main?style=for-the-badge&color=A78BFA&labelColor=0d0d0f&logo=github&label=stars"/>
+<br/>
+<a href="https://github.com/karanxa1/ev-main"><img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </td>
 </tr>
 </table>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:EC4899&height=65&section=header&text=let%27s%20connect&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="connect"/>
 
-## ╭─ uname -a
+<div align="center">
 
-```
-karan@flagship ~ % uname -a
-Engineer 1.0 india x86_64 caffeine/coffee · ship/daily · learn/forever
-```
+**Not looking for a job** — open to partnerships, design-partner intros, and product collabs.
 
-> *"The best way to predict the future is to build it." — paraphrasing Alan Kay*
+<br/><br/>
+
+<a href="mailto:karan@callmissed.com"><img src="https://img.shields.io/badge/Partner_with_me-karan@callmissed.com-EC4899?style=for-the-badge&labelColor=0d0d0f&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+> *"Take the hard problem, ship the whole solution, learn in production."*
+>
+> — Karan Rajput
 
 <br/>
 
-<a href="https://github.com/karanxa1">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-banners/master/svg/banner-2.svg" width="100%" alt="footer"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Co-founder+%C2%B7+Builder+%C2%B7+Operator;CallMissed+%C2%B7+FreeToChat+%C2%B7+TecnoMate"/>
 
-<div align="center">
-  <sub>built with caffeine · in India · open to interesting problems</sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&width=900&color=0:0d0d0f,100:A78BFA&text=shipping%20from%20Pune%2C%20India&fontSize=22&fontColor=ffffff" alt="footer"/>
+
 </div>
