@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/signature-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/signature-light.svg" />
+  <img alt="Karan Rajput — a missed signal resolving into a response" src="assets/signature-light.svg" width="100%" />
+</picture>
+
 # Karan Rajput
 
 Co-founder and forward-deployed engineer in Pune, India. I build customer-facing AI systems end to end — agents, backend, frontend, infra, and rollout — and run them in production.
@@ -36,3 +42,13 @@ Currently building [CallMissed](https://callmissed.com), and co-founding [FreeTo
 - Portfolio: [karanrajput.me](https://karanrajput.me)
 - LinkedIn: [karanrrajput](https://www.linkedin.com/in/karanrrajput/)
 - Partnerships: [karan@callmissed.com](mailto:karan@callmissed.com)
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karanxa1/karanxa1/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karanxa1/karanxa1/output/snake-light.svg" />
+  <img alt="Contribution activity" src="https://raw.githubusercontent.com/karanxa1/karanxa1/output/snake-light.svg" />
+</picture>
+
+![GitHub metrics](assets/metrics.svg)

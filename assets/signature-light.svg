@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" role="img" aria-label="Karan Rajput — a missed signal resolving into a response">
+  <title>Karan Rajput</title>
+  <style>
+    .name {
+      font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+      font-size: 34px; font-weight: 600; letter-spacing: 0.14em; fill: #16181d;
+    }
+    .role {
+      font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+      font-size: 12.5px; letter-spacing: 0.34em; fill: #5b6472;
+    }
+    .baseline { stroke: #d3d8df; stroke-width: 2; }
+    .wave {
+      fill: none; stroke: #16181d; stroke-width: 2.4;
+      stroke-linecap: round; stroke-linejoin: round;
+      stroke-dasharray: 660; stroke-dashoffset: 660;
+      animation: draw 3.6s cubic-bezier(0.65, 0, 0.35, 1) infinite;
+    }
+    .pulse { fill: #16181d; animation: travel 3.6s cubic-bezier(0.65, 0, 0.35, 1) infinite; }
+    @keyframes draw {
+      0% { stroke-dashoffset: 660; } 45% { stroke-dashoffset: 0; } 100% { stroke-dashoffset: 0; }
+    }
+    @keyframes travel {
+      0% { transform: translateX(0px); opacity: 0; } 6% { opacity: 1; }
+      45% { transform: translateX(660px); opacity: 1; } 55% { transform: translateX(660px); opacity: 0; }
+      100% { transform: translateX(660px); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .wave { animation: none; stroke-dashoffset: 0; } .pulse { animation: none; opacity: 0; }
+    }
+  </style>
+  <g transform="translate(40, 50)">
+    <line class="baseline" x1="0" y1="0" x2="660" y2="0"/>
+    <path class="wave" d="M0 0 H150 l12 -22 l14 40 l13 -34 l14 30 l13 -14 H340 l13 -18 l14 30 l13 -12 H660"/>
+    <circle class="pulse" cx="0" cy="0" r="4"/>
+  </g>
+  <text class="name" x="40" y="118">KARAN RAJPUT</text>
+  <text class="role" x="43" y="140">CO-FOUNDER · FORWARD DEPLOYED ENGINEER</text>
+</svg>
