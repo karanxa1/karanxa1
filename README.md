@@ -18,7 +18,7 @@ Currently building [CallMissed](https://callmissed.com), and co-founding [FreeTo
 
 <h2><img src="assets/glyphs/building.svg" width="20" height="20" align="top" alt="" />&nbsp; What I'm building</h2>
 
-**CallMissed** — an AI-native CRM and customer support platform. It handles engagement across WhatsApp, voice, email, and web chat in 22 Indian languages, with a unified API layer that other products build on. Infra runs on Azure, Cloudflare, and GCP; LLMs come from Azure OpenAI with multi-model routing; voice runs through Deepgram, Sarvam, Cartesia, and LiveKit. Live at [callmissed.com](https://callmissed.com) ([app](https://app.callmissed.com), [docs](https://docs.callmissed.com)).
+**CallMissed** — an AI-native CRM and customer support platform. It handles engagement across WhatsApp, Instagram, Facebook, voice, email, and web chat in 22 Indian languages, with a unified API layer that other products build on. Infra runs on Azure, Cloudflare, and GCP; LLMs come from Azure OpenAI with multi-model routing; voice runs through Deepgram, Sarvam, Cartesia, and LiveKit. Live at [callmissed.com](https://callmissed.com) ([app](https://app.callmissed.com), [docs](https://docs.callmissed.com)).
 
 **FreeToChat** — a multi-model chat workspace that runs on the CallMissed APIs, with streaming responses and model routing handled by the platform. Live at [freetochat.app](https://freetochat.app).
 
