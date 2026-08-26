@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="CallMissed platform with FreeToChat and TecnoMate running on its APIs">
+  <title>Product ecosystem</title>
+  <style>
+    text { font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace; }
+    .t-name { font-size: 16px; font-weight: 600; fill: #e8eaed; }
+    .t-sub  { font-size: 10.5px; letter-spacing: 0.08em; fill: #949cab; }
+    .t-cap  { font-size: 10px; letter-spacing: 0.28em; fill: #6b7280; }
+    .box    { fill: none; stroke: #2b2f38; stroke-width: 1.5; }
+    .box-hero { fill: none; stroke: #e8eaed; stroke-width: 2; }
+    .path   { stroke: #363b45; stroke-width: 1.5; fill: none; }
+    .flow {
+      stroke: #e8eaed; stroke-width: 2; fill: none;
+      stroke-dasharray: 6 210; stroke-linecap: round;
+      animation: flow 3.2s linear infinite;
+    }
+    @keyframes flow { to { stroke-dashoffset: -216; } }
+    @media (prefers-reduced-motion: reduce) { .flow { animation: none; opacity: 0; } }
+  </style>
+
+  <text class="t-cap" x="40" y="30">PRODUCT ECOSYSTEM</text>
+
+  <text class="t-sub" x="440" y="66" text-anchor="middle">Azure · Cloudflare · GCP · Deepgram · Sarvam · Cartesia · LiveKit</text>
+  <path class="path" d="M440 76 V104"/>
+  <path class="flow" d="M440 76 V104"/>
+
+  <rect class="box-hero" x="310" y="104" width="260" height="64" rx="8"/>
+  <text class="t-name" x="440" y="132" text-anchor="middle">CallMissed</text>
+  <text class="t-sub"  x="440" y="150" text-anchor="middle">CRM · unified API platform</text>
+
+  <path class="path" d="M370 168 C 340 210, 250 210, 220 232"/>
+  <path class="flow" d="M370 168 C 340 210, 250 210, 220 232"/>
+  <path class="path" d="M510 168 C 540 210, 630 210, 660 232"/>
+  <path class="flow" d="M510 168 C 540 210, 630 210, 660 232"/>
+
+  <rect class="box" x="90" y="232" width="260" height="52" rx="8"/>
+  <text class="t-name" x="110" y="258" font-size="14">FreeToChat</text>
+  <text class="t-sub"  x="110" y="274">multi-model chat workspace</text>
+
+  <rect class="box" x="530" y="232" width="260" height="52" rx="8"/>
+  <text class="t-name" x="550" y="258" font-size="14">TecnoMate</text>
+  <text class="t-sub"  x="550" y="274">commerce agents</text>
+</svg>

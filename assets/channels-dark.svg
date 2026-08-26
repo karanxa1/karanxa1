@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="96" viewBox="0 0 880 96" role="img" aria-label="Channels: WhatsApp, Voice, Email, Web Chat">
+  <title>Channels</title>
+  <style>
+    text { font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace; }
+    .lbl { font-size: 11px; letter-spacing: 0.22em; fill: #949cab; }
+    .bar { fill: #e8eaed; }
+    .rail { stroke: #2b2f38; stroke-width: 1.5; }
+    .b { transform-box: fill-box; transform-origin: bottom; animation: eq 1.9s ease-in-out infinite; }
+    .b1 { animation-delay: 0s }   .b2 { animation-delay: .18s }
+    .b3 { animation-delay: .36s }  .b4 { animation-delay: .54s }
+    .b5 { animation-delay: .72s }
+    @keyframes eq { 0%,100% { transform: scaleY(0.28) } 50% { transform: scaleY(1) } }
+    @media (prefers-reduced-motion: reduce) { .b { animation: none; transform: scaleY(0.6) } }
+  </style>
+
+  <line class="rail" x1="40" y1="54" x2="840" y2="54"/>
+
+  <g>
+    <rect class="bar b b1" x="52" y="26" width="4" height="28"/>
+    <rect class="bar b b2" x="60" y="26" width="4" height="28"/>
+    <rect class="bar b b3" x="68" y="26" width="4" height="28"/>
+    <rect class="bar b b4" x="76" y="26" width="4" height="28"/>
+    <rect class="bar b b5" x="84" y="26" width="4" height="28"/>
+    <text class="lbl" x="52" y="78">WHATSAPP</text>
+  </g>
+  <g transform="translate(210,0)">
+    <rect class="bar b b3" x="52" y="26" width="4" height="28"/>
+    <rect class="bar b b5" x="60" y="26" width="4" height="28"/>
+    <rect class="bar b b1" x="68" y="26" width="4" height="28"/>
+    <rect class="bar b b4" x="76" y="26" width="4" height="28"/>
+    <rect class="bar b b2" x="84" y="26" width="4" height="28"/>
+    <text class="lbl" x="60" y="78">VOICE</text>
+  </g>
+  <g transform="translate(420,0)">
+    <rect class="bar b b2" x="52" y="26" width="4" height="28"/>
+    <rect class="bar b b4" x="60" y="26" width="4" height="28"/>
+    <rect class="bar b b5" x="68" y="26" width="4" height="28"/>
+    <rect class="bar b b1" x="76" y="26" width="4" height="28"/>
+    <rect class="bar b b3" x="84" y="26" width="4" height="28"/>
+    <text class="lbl" x="60" y="78">EMAIL</text>
+  </g>
+  <g transform="translate(630,0)">
+    <rect class="bar b b5" x="52" y="26" width="4" height="28"/>
+    <rect class="bar b b1" x="60" y="26" width="4" height="28"/>
+    <rect class="bar b b3" x="68" y="26" width="4" height="28"/>
+    <rect class="bar b b2" x="76" y="26" width="4" height="28"/>
+    <rect class="bar b b4" x="84" y="26" width="4" height="28"/>
+    <text class="lbl" x="56" y="78">WEB CHAT</text>
+  </g>
+</svg>
