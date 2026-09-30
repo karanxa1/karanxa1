@@ -51,7 +51,7 @@ Currently building [CallMissed](https://callmissed.com), and co-founding [FreeTo
 
 <h2><img src="assets/glyphs/contact.svg" width="20" height="20" align="top" alt="" />&nbsp; Contact</h2>
 
-- Portfolio: [karanrajput.me](https://karanrajput.me)
+- Portfolio: [karan.dev](https://karan.dev)
 - LinkedIn: [karanrrajput](https://www.linkedin.com/in/karanrrajput/)
 - Partnerships: [karan@callmissed.com](mailto:karan@callmissed.com)
 
